@@ -1,1 +1,2 @@
 ## SECI1013 - Discrete Structure
+This course is basically an intro to the logic and math behind computer science. You’ll cover things like set theory, proofs, and functions, and learn how to use counting and recurrence to solve tricky problems. It also gets into graphs, trees, and how finite automata are used to model tech and hardware. Essentially, it’s about learning the tools you need to break down and solve real-world coding and logic challenges.
