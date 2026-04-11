@@ -1,1 +1,1 @@
-All the materials for smester 2 in year 1.
+All the materials for semester 2 in year 1.
