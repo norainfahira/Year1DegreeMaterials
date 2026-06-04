@@ -1,1 +1,1 @@
-
+This course introduces the fundamental concepts of computer organization and architecture. It covers data representation, instruction execution, arithmetic operations, microprogrammed control, pipelining, memory systems, input/output mechanisms, and instruction formats. The course provides a clear understanding of computer components and current hardware technologies.
