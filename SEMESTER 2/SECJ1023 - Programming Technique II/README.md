@@ -1,1 +1,1 @@
-
+This course introduces the concepts of object orientation and object-oriented programming (OOP) using C++. It covers problem-solving techniques with an object-oriented approach, emphasizing key concepts such as encapsulation, association, and inheritance. Students gain practical experience applying OOP techniques to develop solutions for real-world problems.
