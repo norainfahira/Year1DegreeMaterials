@@ -1,1 +1,1 @@
-
+This course explores ethical concepts across diverse civilizations to promote social unity and responsible citizenship. It covers the historical development of Malaysian society, the influence of various cultural traditions, and the analysis of contemporary issues such as politics, economy, and the environment. The course emphasizes the application of ethical values in fostering a harmonious and progressive society.
