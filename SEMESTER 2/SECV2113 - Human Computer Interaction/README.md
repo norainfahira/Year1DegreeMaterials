@@ -1,1 +1,1 @@
-
+This course introduces human-computer interaction theories and design processes, with a focus on applied user experience (UX) design. It explores an iterative, evaluation-centered UX lifecycle, covering usability, usefulness, and emotional impact. Students engage in activities such as contextual inquiry, requirements analysis, design thinking, ideation, prototyping, and evaluation to create effective and user-centered designs.
