@@ -1,1 +1,1 @@
-
+This course introduces statistical techniques as tools for analyzing data from various sources, including daily and industrial activities. Topics include data representation, parameter estimation from different distributions, hypothesis testing, and data modeling. Students gain practical experience in applying statistical models to analyze data using available software.
