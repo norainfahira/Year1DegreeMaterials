@@ -48,6 +48,7 @@ A step-by-step procedure to solve a problem in a finite number of steps.
 - Easy to understand and translate to code
 
 **Example:**
+
 START
 
 GET length
