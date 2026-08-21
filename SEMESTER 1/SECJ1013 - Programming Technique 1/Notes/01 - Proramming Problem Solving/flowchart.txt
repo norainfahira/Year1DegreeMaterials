@@ -1,0 +1,29 @@
+
+#### Flowchart
+- Graphical representation of an algorithm
+- Uses geometric shapes connected by arrows
+- Easier to visualize program flow
+
+**Common symbols:**
+- **Oval:** Start / End
+- **Rectangle:** Process (calculations)
+- **Parallelogram:** Input / Output
+- **Diamond:** Decision (Yes/No branches)
+- **Arrows:** Flow direction
+
+### 5. Basic Control Structures
+These are the building blocks of all programs:
+
+1. **Sequential:** Execute statements in order, line by line
+2. **Selection (Decision):** Choose between alternatives (if-else)
+3. **Repetition (Loop):** Repeat statements multiple times (while, for)
+
+---
+
+## Important Note:
+> This chapter is mostly **THEORY**, but the logic learned here will be applied in **EVERY** subsequent chapter. Mastering problem-solving is more important than memorizing syntax!
+
+---
+
+## Code Example:
+A simple C++ program demonstrating IPO concept can be found in [`simple-IPO.cpp`](simple-IPO.cpp).
