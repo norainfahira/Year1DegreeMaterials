@@ -1,0 +1,43 @@
+===========================================================
+PSEUDO CODE EXAMPLES (Chapter 01)
+===========================================================
+
+EXAMPLE 1: Calculate Area of Rectangle
+--------------------------------------
+START
+    GET length
+    GET width
+    CALCULATE area = length * width
+    DISPLAY area
+END
+
+EXAMPLE 2: Check Even or Odd Number
+--------------------------------------
+START
+    GET number
+    IF number % 2 == 0 THEN
+        DISPLAY "Even number"
+    ELSE
+        DISPLAY "Odd number"
+    END IF
+END
+
+EXAMPLE 3: Sum of First 10 Numbers
+--------------------------------------
+START
+    SET sum = 0
+    SET counter = 1
+    WHILE counter <= 10
+        sum = sum + counter
+        counter = counter + 1
+    END WHILE
+    DISPLAY sum
+END
+
+===========================================================
+NOTES:
+- Pseudo code is NOT a programming language
+- It's used for PLANNING the logic
+- Easy to translate to any programming language
+- Focus on LOGIC, not syntax
+===========================================================
