@@ -1,4 +1,4 @@
-# Chapter 01: Programming Problem-Solving
+# Chapter 01 : Programming Problem-Solving
 
 ## What is this chapter about?
 This chapter is the **foundation** of programming. It focuses on developing logical thinking and problem-solving skills **BEFORE** writing actual code. Think of it as learning to plan a house before buying bricks and cement.
