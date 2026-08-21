@@ -49,8 +49,13 @@ A step-by-step procedure to solve a problem in a finite number of steps.
 
 **Example:**
 START
+
 GET length
+
 GET width
+
 CALCULATE area = length × width
+
 DISPLAY area
+
 END
